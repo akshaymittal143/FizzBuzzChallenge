@@ -186,11 +186,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\aksha\\Documents\\Visual Studio 2017\\Projects\\Fizbuzztrial\\FizzBuzz\\FizzBuzz.csproj",
+      "projectUniqueName": "C:\\gh-portfolio\\FizzBuzzChallenge\\FizzBuzz\\FizzBuzz.csproj",
       "projectName": "FizzBuzz",
-      "projectPath": "C:\\Users\\aksha\\Documents\\Visual Studio 2017\\Projects\\Fizbuzztrial\\FizzBuzz\\FizzBuzz.csproj",
+      "projectPath": "C:\\gh-portfolio\\FizzBuzzChallenge\\FizzBuzz\\FizzBuzz.csproj",
       "packagesPath": "C:\\Users\\aksha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aksha\\Documents\\Visual Studio 2017\\Projects\\Fizbuzztrial\\FizzBuzz\\obj\\",
+      "outputPath": "C:\\gh-portfolio\\FizzBuzzChallenge\\FizzBuzz\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

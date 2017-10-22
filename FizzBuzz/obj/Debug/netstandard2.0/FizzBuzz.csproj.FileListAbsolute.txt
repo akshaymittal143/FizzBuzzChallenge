@@ -6,3 +6,12 @@ C:\Users\aksha\Documents\Visual Studio 2017\Projects\Fizbuzztrial\FizzBuzz\obj\D
 C:\Users\aksha\Documents\Visual Studio 2017\Projects\Fizbuzztrial\FizzBuzz\obj\Debug\netstandard2.0\FizzBuzz.AssemblyInfo.cs
 C:\Users\aksha\Documents\Visual Studio 2017\Projects\Fizbuzztrial\FizzBuzz\obj\Debug\netstandard2.0\FizzBuzz.dll
 C:\Users\aksha\Documents\Visual Studio 2017\Projects\Fizbuzztrial\FizzBuzz\obj\Debug\netstandard2.0\FizzBuzz.pdb
+C:\gh-portfolio\FizzBuzzChallenge\FizzBuzz\bin\Debug\netstandard2.0\FizzBuzz.deps.json
+C:\gh-portfolio\FizzBuzzChallenge\FizzBuzz\bin\Debug\netstandard2.0\FizzBuzz.dll
+C:\gh-portfolio\FizzBuzzChallenge\FizzBuzz\bin\Debug\netstandard2.0\FizzBuzz.pdb
+C:\gh-portfolio\FizzBuzzChallenge\FizzBuzz\obj\Debug\netstandard2.0\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\gh-portfolio\FizzBuzzChallenge\FizzBuzz\obj\Debug\netstandard2.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\gh-portfolio\FizzBuzzChallenge\FizzBuzz\obj\Debug\netstandard2.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\gh-portfolio\FizzBuzzChallenge\FizzBuzz\obj\Debug\netstandard2.0\FizzBuzz.AssemblyInfo.cs
+C:\gh-portfolio\FizzBuzzChallenge\FizzBuzz\obj\Debug\netstandard2.0\FizzBuzz.dll
+C:\gh-portfolio\FizzBuzzChallenge\FizzBuzz\obj\Debug\netstandard2.0\FizzBuzz.pdb
